@@ -1,11 +1,11 @@
 # Bike Sharing Demand Prediction
-This is a project that predicts the demand for bike sharing based on various attributes such as weather conditions, time of day, and user demographics. The dataset used in this project is publicly available on Kaggle.
+This is a project that predicts the demand for bike sharing based on various attributes such as weather conditions, time of day, and user demographics. The dataset used in this project is publicly available.
 
 ## Project Goal
 The main goal of this project is to build a machine learning model that can accurately predict the demand for bike sharing based on various input features.
 
 ## Dataset
-The dataset used in this project contains hourly bike rental data spanning two years. It includes information such as date, time, temperature, humidity, wind speed, and the number of bikes rented in that hour. There are a total of 17 attributes in the dataset.
+The dataset used in this project contains hourly bike rental data spanning two years. It includes information such as date, time, temperature, humidity, wind speed, and the number of bikes rented in that hour. There are a total of 18760 obervations and 14 features in the dataset.
 
 ## Exploratory Data Analysis
 The dataset was first analyzed to gain insights into the distribution of data, correlations between attributes, and missing values. The analysis showed that the data was mostly normally distributed and there were some correlations between attributes. Additionally, there were no missing values in the dataset.
