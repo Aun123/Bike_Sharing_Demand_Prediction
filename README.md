@@ -16,5 +16,5 @@ The data was pre-processed by removing unnecessary attributes and converting cat
 ## Model Building
 Several machine learning algorithms were used to build the prediction model, including linear regression, ridge regression, lasso regression, decision tree, random forest, gradient boosting, and cat boost. Each model was evaluated using various performance metrics such as mean squared error (MSE) and root mean squared error (RMSE).
 
-##Conclusion
+## Conclusion
 The results of the model evaluation showed that the cat boost algorithm performed the best with the lowest MSE and RMSE. The final model was trained on the entire dataset and can be used to predict the demand for bike sharing given various input features.
